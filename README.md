@@ -11,6 +11,14 @@
 
 *A social travel app to make planning trips with friends easier. We store user data after registration and give the user a session cookie. Afterwards they can customize a trip they would like to go on, and allow other users to attend the new trip.*
 
+![login_page](./Users/digitalcrafts/Desktop/login_page.png)
+
+![users_page](link-to-image)
+
+![trips_page](link-to-image)
+
+
+
 #### Our Project Goals- Backend
 
 - [x] Allow our site to create users.
@@ -50,3 +58,5 @@
 | (id)-user1 | (id)-trip3|
 
 *In this example the user from the above user table is deciding to attend a trip created by another user.*
+
+
